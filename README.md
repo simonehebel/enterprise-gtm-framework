@@ -29,18 +29,18 @@ The materials are relevant for:
 
 ### Frameworks
 
-- Market Prioritization
-- Segment Strategy
-- Sales and Marketing Alignment
+- [Market Prioritization Framework](frameworks/market-prioritization.md)
+- [Segment Strategy Framework](frameworks/segment-strategy.md)
+- [Sales and Marketing Alignment Framework](frameworks/sales-marketing-alignment.md)
 
 ### Templates
 
-- GTM Assessment Template
-- Regional Planning Template
+- [GTM Assessment Template](templates/gtm-assessment-template.md)
+- [Regional GTM Planning Template](templates/regional-planning-template.md)
 
-### Examples
+### Example
 
-- Fictional B2B SaaS Example
+- [Fictional B2B SaaS GTM Example](examples/fictional-b2b-saas-example.md)
 
 ## Core Principles
 
